@@ -1,0 +1,8 @@
+name = kesava
+Age = 20
+MobileNo = 22222
+--------------------
+name = hi
+Age = 34
+MobileNo = 2234
+--------------------
